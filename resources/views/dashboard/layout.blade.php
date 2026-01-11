@@ -99,31 +99,31 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{ route('resume.index') }}">
-            <i class="mdi mdi-account menu-icon"></i>
+            <i class="mdi mdi-briefcase menu-icon"></i>
             <span class="menu-title">Resume</span>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{ route('blog.index') }}">
-            <i class="mdi mdi-account menu-icon"></i>
+            <i class="mdi mdi-blogger menu-icon"></i>
             <span class="menu-title">Blog</span>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{ route('project.index') }}">
-            <i class="mdi mdi-account menu-icon"></i>
+            <i class="mdi mdi-folder-star menu-icon"></i>
             <span class="menu-title">Projek</span>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{ route('contact.index') }}">
-            <i class="mdi mdi-account menu-icon"></i>
+            <i class="mdi mdi-message menu-icon"></i>
             <span class="menu-title">Pesan</span>
             </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{ route('skill.index') }}">
-            <i class="mdi mdi-account menu-icon"></i>
+            <i class="mdi mdi-brain menu-icon"></i>
             <span class="menu-title">Skill</span>
             </a>
           </li>
